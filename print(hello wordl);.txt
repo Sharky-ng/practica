@@ -1,2 +1,3 @@
 print("wazzzzzzzzzzzzaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 print("how are you");
+print("skibidi sigma pomni chat rizz")
